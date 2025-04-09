@@ -600,7 +600,7 @@ Where to discover new Ruby libraries, projects and trends.
 
 ## Documentation
 
-* [AnnotateRb](https://github.com/drwl/annotaterb) - Adds database schema annotations for your ActiveRecord models as text comments as well as routes. An active and maintained hard fork of Annotate. 
+* [AnnotateRb](https://github.com/drwl/annotaterb) - Adds database schema annotations for your ActiveRecord models as text comments as well as routes. An active and maintained hard fork of Annotate.
 * [Apipie](https://github.com/Apipie/apipie-rails) - Rails API documentation and display tool using Ruby syntax.
 * [Asciidoctor](https://asciidoctor.org) - A fast, Ruby-based text processor & publishing toolchain for converting AsciiDoc to HTML5, DocBook, EPUB3, PDF & more.
 * [Documentation](https://github.com/adamcooke/documentation) - A Rails engine to provide the ability to add documentation to a Rails application.
@@ -969,7 +969,7 @@ Where to discover new Ruby libraries, projects and trends.
 ## ORM/ODM Extensions
 
 * Auditing and Versioning
-  * [active_snapshot](https://github.com/westonganger/active_snapshot) - Simplified snapshots and restoration for ActiveRecord models and associations with a transparent white-box implementation 
+  * [active_snapshot](https://github.com/westonganger/active_snapshot) - Simplified snapshots and restoration for ActiveRecord models and associations with a transparent white-box implementation
   * [acts_as_archival](https://github.com/expectedbehavior/acts_as_archival) - ActiveRecord plugin for atomic object tree archiving.
   * [ActsAsParanoid](https://github.com/ActsAsParanoid/acts_as_paranoid) - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
   * [Audited](https://github.com/collectiveidea/audited) - Audited is an ORM extension for ActiveRecord & MongoMapper that logs all changes to your models.
@@ -1409,6 +1409,7 @@ Online tools, services and APIs to simplify development.
 * [gon](https://github.com/gazay/gon) - If you need to send some data to your js files and you don't want to do this with long way through views and parsing - use gon.
 * [PluggableJs](https://github.com/peresleguine/pluggable_js) - Page-specific javascript for Rails applications with the ability of passing data from a controller.
 * [render_async](https://github.com/renderedtext/render_async) - Render partials to your views asynchronously and increase load performance of your pages.
+* [Rubicons](https://github.com/insomnius/rubicons) - Ruby and Rails SVG icon toolkit inspired by React Icons with 20+ icon pack from Lucide, Font Awesome and more.
 
 ## Web Crawling
 
